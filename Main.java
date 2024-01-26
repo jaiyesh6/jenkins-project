@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hi, How are you ?");
         System.out.println("This si the first java program");
         System.out.println(new Date());
+        System.out.println("Hello")
     }
 }
