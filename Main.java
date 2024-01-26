@@ -8,5 +8,6 @@ public class Main {
         System.out.println("This si the first java program");
         System.out.println(new Date());
         System.out.println("Hello")
+        System.out.println("Now go for 2nd commit");
     }
 }
